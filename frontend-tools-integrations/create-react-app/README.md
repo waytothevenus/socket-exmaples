@@ -9,7 +9,7 @@ React (or Svelte, Tonic, Vue, etc.) project with Socket Runtime already installe
 First, create a new project with Create React App:
 
 ```bash
-npx create-react-app create-react-app
+npx create-react-app
 ```
 
 This will create a new project in the `create-react-app` directory.
