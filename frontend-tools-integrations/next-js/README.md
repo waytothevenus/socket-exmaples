@@ -1,7 +1,7 @@
 # Getting Started with Next.js and Socket Runtime
 
 This tutorial will show you how to use [Socket Runtime](https://github.com/socketsupply/socket)
-with [Next.js](https://nextjs.org) or update your existing Next project to use Socket Runtime.
+with [Next.js](https://nextjs.org), or update your existing Next project to use Socket Runtime.
 
 **Note:** This example requires un-released Socket Runtime features that will be available in the next release.
 
